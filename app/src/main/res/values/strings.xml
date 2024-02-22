@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Laba29</string>
+    <string name="measure_type_degree">Degrees</string>
+    <string name="measure_type_radian">Radians</string>
+    <string name="measure_type_gradian">Gradians</string>
+    <string name="channel_name">Calculator notification channel</string>
+</resources>
